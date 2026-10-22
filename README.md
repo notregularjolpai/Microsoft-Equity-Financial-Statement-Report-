@@ -79,7 +79,7 @@ The website highlights the research objectives, analytical framework, and major 
 
 ## Limitations and Disclaimer
 
-This project was prepared for academic and portfolio purposes. The analysis reflects the information, assumptions, and research scope used in the original report.
+*An academic equity research project demonstrating the application of financial analysis to a publicly traded company.*
 
 It should not be interpreted as personalized investment advice or a current recommendation to buy, hold, or sell Microsoft stock.
 
